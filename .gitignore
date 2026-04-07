@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (Essencial!)
+venv/
+env/
+.venv/
+
+# Arquivos de Dados (Pra não subir os CSVs gigantes da empresa)
+*.csv
+*.xlsx
+*.json
+
+# Configurações do VS Code ou PyCharm
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
